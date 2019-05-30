@@ -1,0 +1,10 @@
+*********************************************************************
+ READ ME
+
+simple twitter bot that tweets posture reminders once every half hour
+
+python script here created using tweepy library
+
+currently running continuously from google sheet script created by Zach Whalen:
+  http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/
+ 
