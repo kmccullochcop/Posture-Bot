@@ -1,8 +1,9 @@
-*********************************************************************
- READ ME
+## Posture Bot
 
-simple twitter bot that tweets posture reminders once every half hour
+Simple twitter bot that tweets posture reminders once every half hour
 
-python script here created using tweepy library
+[Follow @situpstr8bot on Twitter](https://twitter.com/situpstr8bot)
 
-currently running continuously using the a GAS script hosted through Google Sheets
+Python script created using [Tweepy](https://www.tweepy.org/)
+
+Currently hosted through a Google Apps Script, using functionality from [Twitter Lib for GAS](https://github.com/airhadoken/twitter-lib)
